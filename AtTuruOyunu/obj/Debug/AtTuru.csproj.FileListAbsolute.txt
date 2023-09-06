@@ -1,0 +1,7 @@
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuru.csproj.AssemblyReference.cache
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuru.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuruOyunu.Ayarlar.resources
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuruOyunu.Oyun.resources
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuruOyunu.Properties.Resources.resources
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuru.csproj.GenerateResource.cache
+C:\Users\aliag\source\repos\AtTuruOyunu\obj\Debug\AtTuru.csproj.CoreCompileInputs.cache
